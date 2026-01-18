@@ -1,4 +1,4 @@
-module go-lighter
+module github.com/hunknownz/go-lighter
 
 go 1.23.0
 
